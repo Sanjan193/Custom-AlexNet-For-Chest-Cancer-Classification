@@ -1,5 +1,5 @@
 # Custom-AlexNet-For-Chest-Cancer-Classification-Detection
-A PyTorch-based deep learning project for lung cancer classification using a custom-built AlexNet architecture, including data preprocessing, model training, and performance evaluation.
+A PyTorch-based deep learning project for lung cancer classification using a custom-built AlexNet architecture, including data preprocessing, model training, and performance evaluation and got ~ 81% accuracy.
 
 # 🖼️ Model Architecture
 <p align="center"> <img src="Plots/Custom_Alexnet.png" width="900"> </p>
