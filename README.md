@@ -15,33 +15,25 @@ This repository contains a PyTorch-based deep learning project for lung cancer c
 | Large Cell Carcinoma    | Large-Cell Lung Carcinoma (LCLC), or Large-Cell Carcinoma (LCC) in short, is a heterogeneous group of undifferentiated malignant neoplasms that lack the cytology and architectural features of small cell carcinoma and glandular or squamous differentiation.[1] LCC is categorized as a type of NSCLC (non-small-cell lung carcinoma) that originates from the epithelial cells of the lung. LCLC is histologically characterized by the presence of large, undifferentiated cells that lack distinctive features of either squamous cell carcinoma or adenocarcinoma (other types of cancers). Typically seen in LCLC, tumor cells have abundant pale-staining cytoplasm and prominent nucleoli.     |
 | Normal                  | Healthy lung tissue     |
 
-# Repositori Structure 
+## 📂 Repository Structure
+
+```text
 Custom-alexnet-For-Chest-Cancer-Classification/
 │
-├── dataset/                 
+├── dataset/
+│
 ├── models/
 │   └── custom_alexnet.py
+│
 ├── notebooks/
 │   └── training.ipynb
+│
 ├── images/
 │   ├── architecture.png
 │   ├── confusion_matrix.png
 │   └── accuracy_loss_curves.png
+│
 ├── requirements.txt
 ├── README.md
 └── train.py
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
