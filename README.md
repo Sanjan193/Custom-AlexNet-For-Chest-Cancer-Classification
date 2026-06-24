@@ -33,7 +33,7 @@ Custom-alexnet-For-Chest-Cancer-Classification/
 ├── dataset_link/
 │
 ├── models/
-│   └── custom_alexnet.py
+│   └── custom_alexnet.joblib
 │
 ├── Notebook/
 │   └── Chest_Cancer(AlexNet).ipynb
@@ -44,6 +44,5 @@ Custom-alexnet-For-Chest-Cancer-Classification/
 │   └── accuracy_curve.png
 │
 ├── requirements.txt
-├── README.md
-└── train.py
+|── README.md
 ```
