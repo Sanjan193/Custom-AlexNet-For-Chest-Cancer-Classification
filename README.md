@@ -16,7 +16,7 @@ This repository contains a PyTorch-based deep learning project for lung cancer c
 | Normal                  | Healthy lung tissue     |
 
 ## Accuracy Curve
-<p align="center"> <img src="Plots/Accuracy.png" width="900"> </p>
+<p align="side"> <img src="Plots/Accuracy.png" width="400"> </p>
 
 
 
