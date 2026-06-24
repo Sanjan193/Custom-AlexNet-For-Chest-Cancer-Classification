@@ -21,7 +21,7 @@ Accuracy and Recall score that had been achived is around  ~ 86 %  and 0.92+.
 <p align="left"> <img src="Plots/Loss_curve.png" width="400"> </p> 
 
 ## Accuracy Curve                                                        
-<p align="left"> <img src="Plots/Accuracy.png" width="400"> </p>        
+<p align="right"> <img src="Plots/Accuracy.png" width="400"> </p>        
                                                                       
 
 
