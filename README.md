@@ -54,6 +54,6 @@ Custom-alexnet-For-Chest-Cancer-Classification/
 |
 ├── dataset_link/
 ├── LICENCE
-├── requirements.txt
 |── README.md
+└── requirements.txt
 ```
