@@ -2,7 +2,7 @@
 This repository contains a PyTorch-based deep learning project for lung cancer classification using a custom-built AlexNet architecture, including data preprocessing, model training, and performance evaluation and got ~ 86.71% accuracy and a 0.91+ Recall score.
 
 # 🖼️ Model Architecture
-<p align="center"> <img src="Plots/Custom_Alexnet.png" width="900"> </p>
+<p align="center"> <img src="Plots/Custom_Alexnet.png" width="750"> </p>
 
 # 📂 Dataset
    Dataset Source
