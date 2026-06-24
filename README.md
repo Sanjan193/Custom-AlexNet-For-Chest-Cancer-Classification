@@ -25,7 +25,7 @@ This repository contains a PyTorch-based deep learning project for lung cancer c
 
 
 
-## 📂 Repository Structure
+## 📂 Repo Structure
 
 ```text
 Custom-alexnet-For-Chest-Cancer-Classification/
