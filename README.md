@@ -7,6 +7,7 @@ Accuracy and Recall score that had been achived is around  ~ 86 %  and 0.92+.
 <p align="center"> <img src="Plots/Custom_Alexnet.png" width="750"> </p>
 
 ## Architecture
+
 AlexNet consists of three convolutional layers followed by four fully connected layers. Key details:
 
 Uses ReLU activation functions
